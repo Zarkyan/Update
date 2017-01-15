@@ -1,0 +1,9 @@
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.pdb
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater_Deezloader.Resources.resources
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.vbproj.GenerateResource.Cache
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.exe
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.xml
+c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.pdb
+C:\Users\Nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater_Deezloader.Form1.resources

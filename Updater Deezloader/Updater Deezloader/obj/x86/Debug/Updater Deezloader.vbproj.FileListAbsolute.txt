@@ -7,3 +7,12 @@ c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Update
 c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.xml
 c:\users\nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.pdb
 C:\Users\Nicolas\documents\visual studio 2010\Projects\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater_Deezloader.Form1.resources
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.exe
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.xml
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.pdb
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.exe
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.pdb
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\bin\Debug\Updater Deezloader.xml
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater_Deezloader.Form1.resources
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater_Deezloader.Resources.resources
+C:\Users\Nicolas\Documents\GitHub\Update\Updater Deezloader\Updater Deezloader\obj\x86\Debug\Updater Deezloader.vbproj.GenerateResource.Cache
